@@ -74,7 +74,7 @@ const Home=({ name, setName, fetchQuestions })=>{
 
             </div>
             
-            <img src="/quiz_logo.png" className="banner" alt="quiz app" />
+            <img src="https://images-na.ssl-images-amazon.com/images/I/61I7ET-w4jL.png" className="banner" alt="quiz app" />
         </div>
     )
 }

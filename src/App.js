@@ -22,7 +22,7 @@ function App() {
   };
   return (
     <>
-      <div className="app" style={{ backgroundImage: 'url("/backgroundQuiz.jpg")' }}>
+      <div className="app" style={{ backgroundImage: 'url("/quiz.jpg")' }}>
         <Header/>
         <Routes>
           <Route path='/' element={<Home name={name} setName={setName} fetchQuestions={fetchQuestions}/>}/>
